@@ -11,7 +11,7 @@
 <h2>Step To Install Package : </h2> <br />
 <ul>
   <li> buka direktori D: di cmd </li>
-  <li> jalankan `git clone https://github.com/satriaherman1/reminder-bot` </li>
+  <li> git clone https://github.com/satriaherman1/reminder-bot </li>
   <li> cd reminder-bot </li>
   <li> npm install </li>
 </ul>
